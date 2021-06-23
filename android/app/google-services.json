@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "742667805025",
+    "project_id": "loja-d-yan",
+    "storage_bucket": "loja-d-yan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742667805025:android:a8e1252bdd0c73d330e520",
+        "android_client_info": {
+          "package_name": "com.example.d_yan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742667805025-2vlbf83t9hn3b7jbkh2d9qlqs6c6viio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXBBNlyLq8fca-M_Ms1IxMWqsh7TXfNDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742667805025-2vlbf83t9hn3b7jbkh2d9qlqs6c6viio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
